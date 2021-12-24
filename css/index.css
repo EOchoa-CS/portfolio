@@ -1,14 +1,15 @@
 body {
-    background: greenyellow;
-}
-
-p {
-    color: white;
+    background: royalblue;
 }
 
 h1 {
-    color: white;
+    color: black;
 }
+
+p {
+    color: black;
+}
+
 
 
 .montserrat {
