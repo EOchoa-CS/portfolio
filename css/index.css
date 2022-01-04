@@ -6,6 +6,10 @@ h1 {
     color: black;
 }
 
+h1.ui {
+    color: royalblue;
+}
+
 p {
     color: white;
 }
